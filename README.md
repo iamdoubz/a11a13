@@ -2,9 +2,13 @@
 Block All IP Addresses that Support Article 11 and Article 13
 
 ## Format
-This format is made in two steps:
-1. IPv4
-2. IPv6
+I decided to separate out IPv4 and IPv6 addresses. I also separated into IP by Country (big) and IP by City (massive).
+- IPv4
+  - City
+  - Country
+- IPv6
+  - City
+  - Country
 
 Also, using the great MaxMind GEO IP Database (free version): https://dev.maxmind.com/geoip/geoip2/geolite2/
 

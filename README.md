@@ -56,3 +56,4 @@ Built with Pi-Hole in mind.
 | To Many To | List |
 | ---------- | ---- |
 | 58,026 | results |
+| Read CITY.md | for more info |

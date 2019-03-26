@@ -12,6 +12,7 @@ Also, using the great MaxMind GEO IP Database (free version): https://dev.maxmin
 Built with Pi-Hole in mind.
 
 ## Current Countries in EU
+### Use the eu-ipv#-country.txt
 | GEONAME_ID | LOCALE_CODE | CONTINENT_CODE | CONTINENT_NAME | COUNTRY_ISO_CODE | COUNTRY_NAME |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 146669 | en | EU | Europe | CY | Cyprus |
@@ -49,3 +50,9 @@ Built with Pi-Hole in mind.
 | 3570311 | en | NA | North America | MQ | Martinique |
 | 3578421 | en | NA | North America | MF | Saint Martin |
 | 3579143 | en | NA | North America | GP | Guadeloupe |
+
+## Current Cities in EU
+### Use the eu-ipv#-city.txt
+| To Many To | List |
+| ---------- | ---- |
+| 58,026 | results |
